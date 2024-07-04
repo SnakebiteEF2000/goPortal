@@ -9,4 +9,5 @@ The setup includes:
  - kea dhcp ipv4: Dhcp for the Lan network. Also sets dhcp option for RFC9810
  - Unbound as dns server
 
- Nedded is only Keycloak as external IDP
+Nedded is only Keycloak as external IDP
+
