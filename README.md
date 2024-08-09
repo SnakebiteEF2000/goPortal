@@ -1,3 +1,4 @@
+# I am currently full rewriting this to use eBPF xdp
 # goPortal
 Captive Portal written in go
 
